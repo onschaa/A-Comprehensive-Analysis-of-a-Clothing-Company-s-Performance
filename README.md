@@ -8,5 +8,23 @@ The goal is to understand **retailer performance** and **order patterns**, which
 ## Data Model  
 The dataset comprises three primary tables, as shown in the **Entity-Relationship Diagram (ERD)** below.  
 
-![ERD](https://github.com/user-attachments/assets/db5faac2-f737-457c-baae-ca71d95c3fd3)
+![ERD](https://github.com/user-attachments/assets/db5faac2-f737-457c-baae-ca71d95c3fd3 =250x250)
+
 *Figure: Data Model - ERD for the Clothing Company Sales Data*  
+
+## Dashboards  
+Below are the key dashboards
+
+### Retailer Analysis  
+![Retailers](https://github.com/user-attachments/assets/f9e55cb8-8616-4b7a-ad6b-cdd8185834a4)
+
+
+### Sales Analysis 
+![Sales](https://github.com/user-attachments/assets/53e2d253-1487-4afd-88b7-b63544265164)
+
+
+### Profitibility Analysis  
+ ![Profit](https://github.com/user-attachments/assets/b29be0fe-50bd-43e7-9b9c-31508cc28d0b)
+
+### Exploring Consumer Preferences
+![Color_Pref](https://github.com/user-attachments/assets/226528cb-341c-45ea-bc96-3a8ada04e150)
