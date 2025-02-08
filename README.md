@@ -46,5 +46,5 @@ Below are the key dashboards with my key recommendations
 ### Exploring Consumer Preferences
 ![Color_Pref](https://github.com/user-attachments/assets/226528cb-341c-45ea-bc96-3a8ada04e150)
 #### Recommendations
--Tailor stock levels and promotional efforts to local color preferences.
+- Tailor stock levels and promotional efforts to local color preferences.
 - Identify trending colors to chose designs for upcoming seasons
