@@ -1,4 +1,4 @@
-# A-Comprehensive-Analysis-of-a-Clothing-Company-s-Performance
+# Data-Driven Decision Making with Power BI: Clothing Company's Performance Analysis
 
 ## Overview  
 This project involves the analysis of sales data from a clothing company, spanning from **January 2018 to December 2021**. The company offers more than **1,200 products** and collaborates with over **700 retailers**.  
